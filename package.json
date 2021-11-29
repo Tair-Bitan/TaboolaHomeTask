@@ -1,0 +1,21 @@
+{
+  "name": "taboola-hometask",
+  "jest": {
+    "verbose": true,
+    "testEnvironment": "./js/tests/environment.js"
+  },
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "jest": "^27.3.1",
+    "jest-environment-jsdom": "^27.3.1",
+    "jsdom": "^18.1.1"
+  }
+}
